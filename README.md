@@ -1,4 +1,4 @@
-# Rocket Game - Haking with swift 
+# Rocket Game - Haking with swift.
 Dodge space debris while you learn about per-pixel collision detection.
 
 # Topics 
